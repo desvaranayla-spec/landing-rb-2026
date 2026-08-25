@@ -67,6 +67,7 @@ if ($isBot && !$isLogged) {
         }
     }
 }
+
 /**
  * @defgroup index Index
  * Bootstrap and initialization code.
